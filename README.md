@@ -13,7 +13,7 @@ El repositorio está estructurado de la siguiente manera:
 
 ## Uso
 
-Para utilizar el código en este repositorio, se recomienda clonar el repositorio y ejecutar los Jupyter Notebooks en la carpeta. Los datos utilizados en la tesis se encuentran en la carpeta "Dataset", y los modelos implementados se encuentran en los jupyter notebooks de los experimentos. Las imágenes de las gráficas de costo y exactitud, así como las matrices de confusión, se encuentran en las subcarpetas de cada experimento.
+Para utilizar el código en este repositorio, se recomienda clonar el repositorio y ejecutar los Jupyter Notebooks en Google Collab. Para mayor eficiencia de ejecución, se recomiendo configurar este entorno con una GPU.
 
 ## Autor
 
