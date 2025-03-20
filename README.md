@@ -10,7 +10,7 @@ El repositorio está estructurado de la siguiente manera:
 | --------------------- | --------------------------------------------------- |
 | MAP/Experimentos1y2   | Jupyter Notebook con los Experimentos 1 y 2 del TEG |
 | RBFNN/Experimentos3y4 | Jupyter Notebook con los Experimentos 3 y 4 del TEG |
-| TEG                   | PDF del Trabajo Especial de Grado                   |
+| TEG_GabrielCarrizo    | PDF del Trabajo Especial de Grado                   |
 
 ## Experimentos
 
