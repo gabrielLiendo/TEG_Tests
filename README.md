@@ -14,7 +14,7 @@ El repositorio está estructurado de la siguiente manera:
 
 ## Experimentos
 
-A continuación se presentan los experimentos realizados. Los resultados obtenidos se presentan brevemente en los Jupyter Notebooks asociados a los experimentos, pero se recomienda fuertemente leer el Capitulo de Experimentos y Resultados del TEG que se encuentra en este repositorio.
+A continuación se presentan los experimentos realizados. Los resultados obtenidos se presentan brevemente en los Jupyter Notebooks asociados a los experimentos, pero se recomienda fuertemente leer el Capitulo de "Experimentos y Resultados" del TEG que se encuentra en este repositorio.
 
 ### Experimento 1
 Dado que muchos de los métodos estudiados presentan un comportamiento estocástico, se consideró relevante analizar su distribución probabilística. Para ello, se generaron dos sistemas de ecuaciones lineales con la misma matriz aleatoria $A \in \mathbb{R}^{4000 \times 500}$: uno consistente con vector de términos independientes $b$ y otro inconsistente con un vector afectado por ruido $b_{LS}$, ambos generados de manera aleatoria. Con el objetivo de visualizar la distribución del número de iteraciones requeridas para la convergencia, cada método se ejecutó 500 veces por sistema, registrando el número de proyecciones realizadas en cada ejecución. La generación de estos sistemas aleatorios se explica a mayor detalle dentro del documento.
